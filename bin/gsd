@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+mvim ~/todo.txt && say -v Tessa 'Now get shit done!'

@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+mvim -O ~/todo.txt ~/dump.txt && say -v Tessa 'Now decide what you want to do today.'
