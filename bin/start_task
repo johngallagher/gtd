@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+osascript StartTimeSliceWithTask.scpt $1
